@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MusicalApp</string>
+    <string name="artists">Artists</string>
+    <string name="playlists">Playlists</string>
+    <string name="buy_music">Buy Music</string>
+    <string name="recents">Recent</string>
+    <string name="now_playing">Now playing</string>
+    <string name="actual_song">Artist - Song</string>
+    <string name="artist">Artist</string>
+    <string name="playlist">Playlist</string>
+    <string name="new_playlist"> New Playlist</string>
+    <string name="choose_artist">Select an Artist to see the list of available Albums. Hurdle: load a list of artists from the ones on the device.</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="create_playlist">New Playlist</string>
+    <string name="buy_music__edittext_hint">Insert Artist</string>
+    <string name="playlists_description">Select an existing playlist or create a new one. Hurdle: make the create playlist button working.</string>
+    <string name="recents_description">Fastpath to recently played songs. Hurdle: let the app memorize last played songs.</string>
+    <string name="buy_music_description">Look for Artists. Hurdle: connect to a database of artists on a server.</string>
+    <string name="artist_list_description">Artist should be listed here</string>
+    <string name="now_playing_description">Current played song. Added a working song, only implemented play button for testing. Hurdle: get metadata of the song</string>
+</resources>
